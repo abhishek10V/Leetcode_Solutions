@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
