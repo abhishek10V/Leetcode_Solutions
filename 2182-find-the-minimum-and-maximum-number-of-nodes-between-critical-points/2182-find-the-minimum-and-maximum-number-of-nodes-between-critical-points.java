@@ -1,69 +1,59 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int len = 0;
-        ListNode temp = head;
-        while(temp != null){
-            len++;
-            temp = temp.next;
-        }
-        int[] result = new int[2];
-        result[0] = result[1] = -1;
-        boolean[] cp = new boolean[len];
-        if(len < 4) return result;
-        int index = 1, count = 0;
-        temp = head;
-        head = head.next;
-        while(head.next != null && index < len-1){
-           if((temp.val < head.val && head.next.val < head.val) || (temp.val > head.val && head.next.val > head.val)){
-              cp[index] = true;
-              count++;
-           }
-           index++;
-           head = head.next;
-           temp = temp.next;
-        }
-        if(count < 2) return result;
 
-        findMax(result, cp);
-        findMin(result , cp, count);
+       ListNode prev=head;
+       ListNode curr=head.next;
 
-        return result;
-    }
-    public void findMax(int[] result, boolean[] cp){
-        int maxDis = 0, minDis = Integer.MAX_VALUE, left = 0, right = cp.length - 1;
+       int first_index=-1;
+       int last_index=-1;
 
-        while(left < right){
-            if(cp[left] == false && cp[right] == false){
-                left++;
-                right--;
-            }else if(cp[left] == true && cp[right] == false) right--;
-            else if(cp[left] == false && cp[right] == true) left++;
-            else{
-               maxDis = Math.max(maxDis , right - left);
-               break;
+       int index=1;
+
+       int prev_index=-1;
+
+       int min_dist=Integer.MAX_VALUE;
+
+       while(curr.next!=null){
+
+        if(prev.val>curr.val && curr.val<curr.next.val   || prev.val<curr.val && curr.val>curr.next.val){
+
+            if(prev_index==-1){
+                first_index=index;
+                prev_index=index;
             }
+            else{
+                if(min_dist>index-prev_index){
+                    min_dist=index-prev_index;
+                }
+
+                prev_index=index;
+            }
+
         }
-        result[1] = maxDis;
-    }
-    public void findMin(int[] result , boolean[] cp, int count){
-       int[] index = new int[count];
-       int k=0, minDis = Integer.MAX_VALUE;
-       for(int i=0 ; i<cp.length; i++){
-        if(cp[i] == true) index[k++] = i;
+
+        index++;
+
+
+        curr=curr.next;
+        prev=prev.next;
+
        }
-       for(int i=1; i<index.length; i++){
-         minDis = Math.min(minDis , index[i] - index[i-1]);
+
+       last_index=prev_index;
+
+       int max_dist=-1;
+
+      
+
+       if(min_dist==Integer.MAX_VALUE ){
+         int[]arr={-1,-1};
+         return arr;
        }
-       result[0] = minDis;
+       else{
+        max_dist=last_index-first_index;
+        int []arr={min_dist,max_dist};
+        return arr;
+       }
+
     }
 }
