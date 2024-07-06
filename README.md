@@ -21,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [2645-pass-the-pillow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
 | ------- |
