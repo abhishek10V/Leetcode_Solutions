@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [2645-pass-the-pillow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
@@ -82,6 +83,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
