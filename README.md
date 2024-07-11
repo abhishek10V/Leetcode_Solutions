@@ -88,6 +88,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
@@ -138,5 +139,6 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
