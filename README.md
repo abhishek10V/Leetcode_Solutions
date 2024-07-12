@@ -93,6 +93,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -144,4 +146,5 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
