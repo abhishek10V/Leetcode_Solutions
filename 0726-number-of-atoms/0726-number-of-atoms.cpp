@@ -24,18 +24,12 @@ class Solution {
                     int m = stoi(mult);
 
                     for(auto & it : curr){
-                        string element = it.first;
-                        int count = it.second;
-
-                        curr[element] = count * m;
+                        curr[it.first] = it.second * m;
                     }
                 }
 
                 for(auto & it : curr){
-                    string element = it.first;
-                    int count = it.second;
-
-                    st.top()[element] += count;
+                    st.top()[it.first] += it.second;
                 }
             }else {
                 string currE;
