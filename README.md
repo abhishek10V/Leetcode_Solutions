@@ -97,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
@@ -155,6 +156,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -164,6 +166,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 ## Design
 |  |
