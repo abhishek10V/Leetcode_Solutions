@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
+| [0412-fizz-buzz](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
