@@ -18,6 +18,7 @@
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Math
 |  |
 | ------- |
@@ -42,12 +43,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -59,6 +62,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Array
 |  |
@@ -72,6 +76,7 @@
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
