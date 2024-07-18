@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0792-binary-search) |
@@ -196,4 +198,24 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
