@@ -13,6 +13,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
@@ -81,6 +82,7 @@
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -242,4 +246,20 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
