@@ -2,27 +2,27 @@ class Solution {
 public:
     vector<string> wordBreak(string s, vector<string>& wordDict) {
         unordered_set<string> st;
+        unordered_map<string , vector<string>> mp;
         for(string & w : wordDict) st.insert(w);
-        vector<string> res;
-        string currSen = "";
 
-        solve(0 , currSen , s, res, st);
-
-        return res;
+        return solve(s, st, mp);
     }
-    void solve(int start , string curr , string s , vector<string>& res , unordered_set<string>& st){
-        if(start >= s.length()) res.push_back(curr);
-
-        for(int j=start ; j<s.length(); j++){
-            string tempWord = s.substr(start , j-start+1);
+    vector<string> solve(string s, unordered_set<string>& st, unordered_map<string , vector<string>>& mp){
+        if(s.empty()) return {""};
+        if(mp.count(s)) return mp[s];
+       vector<string> res;
+        for(int j=1 ; j<=s.length(); j++){
+            string tempWord = s.substr(0,j);
             if(st.count(tempWord)){
-                string temp = curr;
-                if(!curr.empty()) curr += " ";
-                curr += tempWord;
-                solve(j+1 , curr , s , res, st);
-                curr = temp;
+                string remainWord = s.substr(j);
+                vector<string> remainRes = solve(remainWord, st, mp);
+
+                for(string & w : remainRes){
+                    string toAdd = tempWord + (w.empty() ? "" : " ") + w;
+                    res.push_back(toAdd);
+                }
             }
         }
-
+       return mp[s] = res;
     }
 };
