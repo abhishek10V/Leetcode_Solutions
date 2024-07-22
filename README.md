@@ -23,6 +23,7 @@
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [2502-sort-the-people](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1803-average-waiting-time](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 ## String
 |  |
@@ -142,6 +145,7 @@
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
