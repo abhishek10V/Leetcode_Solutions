@@ -13,23 +13,16 @@ public:
             SPM[v][u] = w;
         }
          
-        for(int i=0 ; i<n ; i++){
-            bellman(n , edges , SPM[i] , i);
-        }
+        floydWarshall(n , SPM);
+
         return findResultCity(n , SPM ,dis);
     }
-    void bellman(int n , vector<vector<int>>& edges, vector<int>& res, int s){
-        fill(res.begin() , res.end() , 1e9+7);
-        res[s] = 0;
-
-        for(int i=1 ; i<n ; i++){
-            for(auto & e : edges){
-                int u = e[0];
-                int v = e[1];
-                int w = e[2];
-
-                if(res[u] != 1e9+7 && res[u] + w < res[v]) res[v] = res[u] + w;
-                if(res[v] != 1e9+7 && res[v] + w < res[u]) res[u] = res[v] + w;
+    void floydWarshall(int n ,  vector<vector<int>>& SPM){
+        for(int via = 0 ; via<n; via++){
+            for(int i=0 ; i<n; i++){
+                for(int j=0  ;j<n; j++){
+                    SPM[i][j] = min(SPM[i][j] , SPM[i][via] + SPM[via][j]);
+                }
             }
         }
     }
