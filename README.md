@@ -88,6 +88,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0239-sliding-window-maximum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -273,6 +274,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
