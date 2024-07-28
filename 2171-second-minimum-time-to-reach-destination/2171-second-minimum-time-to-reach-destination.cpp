@@ -2,7 +2,7 @@ class Solution {
 public:
     
     int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
-        unordered_map<int , vector<int>> adj;
+         vector<vector<int>> adj(n+1);
         for(auto & e : edges){
             int u = e[0];
             int v = e[1];
@@ -14,13 +14,15 @@ public:
         vector<int> d1(n+1 , INT_MAX);
         vector<int> d2(n+1 , INT_MAX);
         
-        priority_queue<pair<int , int> , vector<pair<int , int>>, greater<pair<int , int>>> pq;
-        pq.push({0 , 1});
-        d1[0] = 0;
+        queue<pair<int , int>> q;
+        q.push({1 , 1});
+        d1[1] = 0;
 
-        while(!pq.empty()){
-            auto [timepassed , node] = pq.top();
-            pq.pop();
+        while(!q.empty()){
+            auto [node , freq] = q.front();
+            q.pop();
+            
+            int timepassed = (freq == 1) ? d1[node] : d2[node];
 
             if(node == n && d2[n] != INT_MAX) return d2[n];
 
@@ -31,14 +33,13 @@ public:
             }
 
             for(auto & ngbr : adj[node]){
-                if(d1[ngbr] > timepassed + time){
-                    d2[ngbr] = d1[ngbr];
-                    d1[ngbr] = timepassed + time;
-                    pq.push({timepassed + time , ngbr});
-                }else if(d2[ngbr] > timepassed + time && d1[ngbr] != timepassed + time){
-                    d2[ngbr] = timepassed + time;
-                    pq.push({timepassed + time , ngbr});
-                }
+               if(d1[ngbr] == INT_MAX){
+                  d1[ngbr] = timepassed + time;
+                  q.push({ngbr , 1});
+               }else if(d2[ngbr] == INT_MAX && d1[ngbr] != timepassed + time){
+                  d2[ngbr] = timepassed + time;
+                  q.push({ngbr , 2});
+               }
             }
         }
         return -1;
