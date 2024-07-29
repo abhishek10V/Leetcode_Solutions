@@ -16,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -198,6 +200,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -284,6 +287,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 ## Trie
