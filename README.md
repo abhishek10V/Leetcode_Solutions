@@ -111,6 +111,7 @@
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -261,6 +262,7 @@
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
