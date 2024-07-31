@@ -97,6 +97,7 @@
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -275,17 +276,20 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1511-count-number-of-teams](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Merge Sort
 |  |
@@ -295,6 +299,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Backtracking
 |  |
@@ -315,6 +320,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
@@ -363,4 +369,8 @@
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
