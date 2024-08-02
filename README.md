@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -190,6 +192,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
