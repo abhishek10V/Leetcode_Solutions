@@ -1,23 +1,48 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        unordered_map<char , int> mp;
 
-        for(auto & c : word){
-            mp[c]++;
+        int i;
+        int freq[26];
+
+        vector<int> num;
+
+        for(i=0;i<26;i++){
+            freq[i]=0;
         }
 
-    vector<pair<char, int>> vec(mp.begin(), mp.end());
+        for(i=0;i<word.size();i++) {
+            freq[word[i]-'a']++;
+        }
 
-    // Sort the vector based on the second value (value in the map) in descending order
-    sort(vec.begin(), vec.end(), [](const pair<char, int>& a, const pair<char, int>& b) {
-        return a.second > b.second;
-    });
+        for(i=0;i<26;i++) {
+            if(freq[i]!=0) {
+                num.push_back(freq[i]);
+            }
+        }
 
-    int ans = 0;
-    for(int i=0 ; i<vec.size(); i++){
-        ans += (ceil((double)(i+1)/8)) * vec[i].second;
-    }
-    return ans;
+        sort(num.begin(),num.end());
+
+        int cnt=0,sum=0,offset=1,ans=0;
+
+
+        for(i=num.size()-1;i>=0;i--) {
+            cnt++;
+            sum+=num[i];
+            if(cnt==8) {
+
+                ans+=sum*offset;
+                cnt=0;
+                sum=0;
+                offset++;
+            }
+        }
+
+        ans+=sum*offset;
+
+        return ans;
+
+
+        
     }
 };
