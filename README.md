@@ -3,6 +3,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Graph
 |  |
@@ -29,6 +30,7 @@
 | [0940-fruit-into-baskets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
+| [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -77,6 +79,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -88,6 +91,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
@@ -125,6 +129,7 @@
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
+| [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -245,6 +250,7 @@
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
