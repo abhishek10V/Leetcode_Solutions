@@ -119,6 +119,7 @@
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
