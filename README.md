@@ -126,6 +126,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -172,6 +174,7 @@
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
@@ -183,6 +186,7 @@
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
