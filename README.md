@@ -131,6 +131,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
