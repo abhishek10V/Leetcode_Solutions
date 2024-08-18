@@ -20,6 +20,7 @@
 | [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -44,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
@@ -326,6 +328,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -391,6 +394,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
