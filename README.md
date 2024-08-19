@@ -51,6 +51,7 @@
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [0650-2-keys-keyboard](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -335,6 +336,7 @@
 | [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
