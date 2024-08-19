@@ -1,20 +1,31 @@
 class Solution {
     public int minSteps(int n) {
-        if(n==1) return 0;
-        int[][] dp = new int[1001][1001];
-        for(int[] row : dp) Arrays.fill(row, -1);
+        if (n == 1)
+            return 0;
+        if (n == 2)
+            return 2;
 
-        return 1 + solve(1,1,n,dp);
-    }
-    public int solve(int currA , int clipA , int n , int[][] dp){
-        if(currA == n) return 0;
+        int[] dp = new int[n + 1];
 
-        if(currA > n) return 100000;
-        if(dp[currA][clipA] != -1) return dp[currA][clipA];
+        dp[0] = dp[1] = 0;
+        dp[2] = 2;
 
-        int copyAllPaste = 1+1+ solve(currA + currA , currA , n , dp);
-        int paste = 1 + solve(currA + clipA , clipA , n , dp);
+        for (int i = 3; i <= n; i++) {
+            int factor = i / 2;
 
-        return dp[currA][clipA] = Math.min(copyAllPaste , paste);
+            while (factor >= 1) {
+                if (i % factor == 0) {
+                    int stepsToPrintFactorAs = dp[factor];
+                    int copy = 1;
+                    int paste = (i / factor) - 1;
+
+                    dp[i] = stepsToPrintFactorAs + copy + paste;
+                    break;
+                } else {
+                    factor--;
+                }
+            }
+        }
+        return dp[n];
     }
 }
