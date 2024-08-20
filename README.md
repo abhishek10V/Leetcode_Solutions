@@ -53,6 +53,7 @@
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
 | [0650-2-keys-keyboard](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
@@ -145,6 +146,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -338,6 +340,7 @@
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -467,4 +470,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
