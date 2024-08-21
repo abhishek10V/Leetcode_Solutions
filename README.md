@@ -222,6 +222,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0415-add-strings) |
+| [0664-strange-printer](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -339,6 +340,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
