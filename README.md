@@ -72,6 +72,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -83,6 +84,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -107,6 +109,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -474,6 +477,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
