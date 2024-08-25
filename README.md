@@ -129,6 +129,7 @@
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0218-the-skyline-problem](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -351,6 +352,7 @@
 | [0032-longest-valid-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
