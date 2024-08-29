@@ -31,6 +31,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0398-random-pick-index) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
@@ -197,6 +198,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -247,6 +249,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -282,6 +285,7 @@
 | [0044-wildcard-matching](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
