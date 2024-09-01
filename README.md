@@ -139,6 +139,7 @@
 | [0040-combination-sum-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -347,6 +348,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -429,6 +431,7 @@
 | [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Trie
