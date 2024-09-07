@@ -24,25 +24,17 @@
  * }
  */
 class Solution {
-    List<TreeNode> list = new ArrayList<>();
-
     public boolean isSubPath(ListNode head, TreeNode root) {
-        addList(head , root);
+        if(root == null) return false;
+        if(head == null) return true;
 
-        for(TreeNode node : list){
-            if(dfs(node , head)) return true;
+        if(root.val == head.val){
+          if( dfs(root.left, head.next) || dfs(root.right , head.next)) 
+        return true;
         }
 
-        return false;
-    }
-    public void addList(ListNode head , TreeNode node){
-       if(head == null || node == null) return;
-
-       if(head.val == node.val) list.add(node);
-
-       addList(head , node.left);
-       addList(head , node.right);
-
+       
+        return  isSubPath(head , root.left) || isSubPath(head, root.right);
     }
     public boolean dfs(TreeNode node , ListNode curr){
         if(curr == null) return true;
