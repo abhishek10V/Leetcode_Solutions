@@ -319,6 +319,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0725-split-linked-list-in-parts](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
