@@ -382,6 +382,7 @@
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
