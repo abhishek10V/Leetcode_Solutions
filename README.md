@@ -184,6 +184,7 @@
 | [1325-path-with-maximum-probability](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -385,6 +386,7 @@
 | [0268-missing-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -561,6 +563,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
