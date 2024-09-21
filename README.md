@@ -107,6 +107,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -496,6 +497,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
