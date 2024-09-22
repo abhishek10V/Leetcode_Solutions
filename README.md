@@ -498,6 +498,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
 | ------- |
