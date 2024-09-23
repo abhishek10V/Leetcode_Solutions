@@ -44,6 +44,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1512-design-underground-system](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1512-design-underground-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -295,6 +296,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1512-design-underground-system](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1512-design-underground-system) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -459,6 +461,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
+| [1512-design-underground-system](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1512-design-underground-system) |
 ## Divide and Conquer
 |  |
 | ------- |
