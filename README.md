@@ -200,6 +200,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -438,6 +439,7 @@
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -475,6 +477,7 @@
 | [0731-my-calendar-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0947-online-election](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0947-online-election) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1512-design-underground-system) |
 ## Divide and Conquer
 |  |
