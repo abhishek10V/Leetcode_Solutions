@@ -158,6 +158,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
@@ -242,6 +243,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0455-assign-cookies) |
