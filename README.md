@@ -334,6 +334,7 @@
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1304-longest-happy-string) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-design-underground-system](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1512-design-underground-system) |
@@ -388,6 +389,7 @@
 | [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -594,6 +596,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
