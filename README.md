@@ -52,6 +52,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -342,6 +343,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-design-underground-system](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1512-design-underground-system) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -581,6 +583,7 @@
 | [0078-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Trie
 |  |
