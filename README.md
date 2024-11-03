@@ -354,6 +354,7 @@
 | [0664-strange-printer](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0965-unique-email-addresses) |
@@ -744,6 +745,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
