@@ -267,6 +267,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3291-find-if-array-can-be-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -330,6 +331,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
@@ -513,6 +515,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
