@@ -270,6 +270,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -479,6 +480,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0940-fruit-into-baskets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
