@@ -265,6 +265,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -306,6 +307,7 @@
 | [1923-sentence-similarity-iii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -409,6 +411,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2580-circular-sentence) |
@@ -441,6 +444,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2645-pass-the-pillow) |
