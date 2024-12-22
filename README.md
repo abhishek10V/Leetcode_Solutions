@@ -215,6 +215,7 @@
 | [0729-my-calendar-i](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0890-lemonade-change) |
@@ -351,6 +352,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -467,6 +469,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1304-longest-happy-string) |
@@ -581,6 +584,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -761,6 +765,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
