@@ -210,6 +210,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -612,6 +613,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0650-2-keys-keyboard) |
@@ -680,6 +682,7 @@
 | [0051-n-queens](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek10V/Leetcode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
